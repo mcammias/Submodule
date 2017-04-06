@@ -1,0 +1,3 @@
+[submodule "chaos-lemur"]
+	path = chaos-lemur
+	url = https://github.com/mcammias/chaos-lemur.git
